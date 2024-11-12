@@ -1,0 +1,205 @@
+# Encrypted by osil
+while [ "$else" = "$ulang" ]
+do
+clear
+m="\033[1;31m"
+h="\033[1;32m"
+k="\033[1;33m"
+b="\033[1;34m"
+p="\033[1;37m"
+sleep 1
+echo -e $h
+pkg update && pkg upgrade
+echo -e $h
+pkg install neofetch
+clear
+neofetch
+mpv /storage/emulated/0/Music9
+sleep 1
+clear
+echo
+echo  " ____                   _ _                       _       _   _"		     | lolcat
+echo  "|  _ \ __ _ _ __   __ _| (_)_ __ ___   __ _      | | __ _| |_(_)_ __ ___ "    | lolcat
+echo  "| |_) / _  |  _ \ / _  | | |  _   _ \ / _  |  _  | |/ _  | __| |  _   _ \ "   | lolcat
+echo  "|  __/ (_| | | | | (_| | | | | | | | | (_| | | |_| | (_| | |_| | | | | | | "  | lolcat
+echo  "|_|   \__,_|_| |_|\__, |_|_|_| |_| |_|\__,_|  \___/ \__,_|\__|_|_| |_| |_| "  | lolcat
+echo  "                   |___/" | lolcat
+sleep 2
+echo -e $k
+echo -e "  _     _     _     _     _     _     _ "
+echo -e " / \   / \   / \   / \   / \   / \   / \ "
+echo -e "( L ) ( o ) ( a ) ( d ) ( i ) ( n ) ( g ) "
+echo -e " \_/   \_/   \_/   \_/   \_/   \_/   \_/  "
+echo -e $h
+echo -ne " Loading [ 1 ]\r"
+sleep 0.1
+echo -ne " Loading [ 2 ]\r"
+sleep 0.1
+echo -ne " Loading [ 3 ]\r"
+sleep 0.1
+echo -ne " Loading [ 4 ]\r"
+sleep 0.1
+echo -ne " Loading [ 5 ]\r"
+sleep 0.1
+echo -ne " Loading [ 6 ]\r"
+sleep 0.1
+echo -ne " Loading [ 7 ]\r"
+sleep 0.1
+echo -ne " Loading [ 8 ]\r"
+sleep 0.1
+echo -ne " Loading [ 9 ]\r"
+sleep 0.1
+echo -ne " Loading [ 10 ]\r"
+sleep 0.1
+echo -ne " Loading [ 11 ]\r"
+sleep 0.1
+echo -ne " Loading [ 12 ]\r"
+sleep 0.1
+echo -ne " Loading [ 14 ]\r"
+sleep 0.1
+echo -ne " Loading [ 20 ]\r"
+sleep 0.1
+echo -ne " Loading [ 24 ]\r"
+sleep 0.1
+echo -ne " Loading [ 29 ]\r"
+sleep 0.1
+echo -ne " Loading [ 34 ]\r"
+sleep 0.1
+echo -ne " Loading [ 39 ]\r"
+sleep 0.1
+echo -ne " Loading [ 42 ]\r"
+sleep 0.1
+echo -ne " Loading [ 47 ]\r"
+sleep 0.1
+echo -ne " Loading [ 50 ]\r"
+sleep 0.1
+echo -ne " Loading [ 56 ]\r"
+sleep 0.1
+echo -ne " Loading [ 60 ]\r"
+sleep 0.1
+echo -ne " Loading [ 64 ]\r"
+sleep 0.1
+echo -ne " Loading [ 68 ]\r"
+sleep 0.1
+echo -ne " Loading [ 70 ]\r"
+sleep 0.1
+echo -ne " Loading [ 75 ]\r"
+sleep 0.1
+echo -ne " Loading [ 80 ]\r"
+sleep 0.1
+echo -ne " Loading [ 83 ]\r"
+sleep 0.1
+echo -ne " Loading [ 87 ]\r"
+sleep 0.1
+echo -ne " Loading [ 90 ]\r"
+sleep 0.1
+echo -ne " Loading [ 93 ]\r"
+sleep 0.1
+echo -ne " Loading [ 95 ]\r"
+sleep 0.1
+echo -ne " Loading [ 99 ]\r"
+sleep 0.1
+echo -ne " Loading [ 100 ]\r"
+sleep 0.3
+echo -e $h "LOGIN BERHASIL ...!!!"
+clear
+sleep 1
+echo -e $k " Login YouTube Panglima Jatim"
+sleep 2
+xdg-open https://youtube.com/@PANGLIMAJATIM404
+clear
+sleep 3
+clear
+echo -e $k
+echo " __      __  _____   _____    _    _    _____  "| lolcat
+echo " \ \    / / |_   _| |  __ \  | |  | |  / ____| "| lolcat
+echo "  \ \  / /    | |   | |__) | | |  | | | (___   "| lolcat
+echo "   \ \/ /     | |   |  _  /  | |  | |  \___ \  "| lolcat
+echo "    \  /     _| |_  | | \ \  | |__| |  ____) | "| lolcat
+echo "     \/     |_____| |_|  \_\  \____/  |_____/  "| lolcat
+echo
+echo -e $k"                  Versi 2.0.2.3"
+sleep 1
+echo -e $p
+echo    "╔═══════════════════════════════════════════════════════════════════╗"
+echo -e "║$h                      Author = Panglima Jatim                      $p║"
+echo -e "║$k                       Time  = Mafia Teknologi                     $p║"
+echo -e "║$m                      Girhub = https://github.com/Projeckerror     $p║"
+echo -e "║$b                           MR.VIRUS                                $p║"
+echo    "╚═══════════════════════════════════════════════════════════════════╝"
+echo
+sleep 2
+echo -e $b
+echo    "╔══════════════════════════════════════════════════════════════════╗"
+echo -e "║$h [1] Virus                                                        $b║"
+echo -e "║$p [2] Virus 1                                                      $b║"
+echo -e "║$k [3] Virus 2                                                      $b║"
+echo -e "║$m [4] Virus 3                                                      $b║"
+echo -e "║$h [5] Virus WhatsApp                                               $b║"
+echo -e "║$p [6] Virus TU4NB4ND1T                                             $b║"
+echo -e "║$m [7] Virus MEMATIKAN                                              $b║"
+echo -e "║$h [8] Virus BERUTAL                                                $b║"
+echo -e "║$p [9] Virus data WhatsApp                                          $b║"
+echo -e "║$k [10] Virus master error                                          $b║"
+echo -e "║$b [11] Virus jangkrik                                              $b║"
+echo -e "║$m [12] Keluar                                                      $b║"
+echo    "╚══════════════════════════════════════════════════════════════════╝"
+echo -e $h
+read -p "═══> " virus
+if [ $virus = 1 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/66hz2plvxbrv6px/virus.txt/file
+elif [ $virus = 2 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/n08z1fd0dlf9yp9/virus-1.txt/file
+elif [ $virus = 3 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/kr1k4n1mmzqu1jt/VIRUS_MEMATIKAN_PART_2.txt/file
+elif [ $virus = 4 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/gxepgp5obddy5rq/VIRUS_MEMATIKAN_PART_3.txt/file
+elif [ $virus = 5 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/xh6tuh4ar99kz7v/VIRUS_LAG_WA.txt/file
+elif [ $virus = 6 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/xkzvde521mupxzu/virus_TU4NB4ND1T.txt/file
+elif [ $virus = 7 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/k9fokupigqw60lj/VIRUS_MEMATIKAN_BY_GHOSTNAME.txt/file
+elif [ $virus = 8 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/k9fokupigqw60lj/VIRUS_MEMATIKAN_BY_GHOSTNAME.txt/file
+elif [ $virus = 9 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/pfqxrg5anc8mw44/Virus_Data_Whatsapp.txt/file
+elif [ $virus = 10 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/fnimxpllpovkmx0/Virus_MASTER_ERORRR_GANAS%2521%2521-1-2.txt/file
+elif [ $virus = 11 ]
+then
+clear
+xdg-open https://www.mediafire.com/file/ggs2eczys31jjlq/virus_jangkrik.txt/file
+elif [ $virus = 12 ]
+then
+clear
+echo "Bay-bay"
+echo "Jangan lupa Subscribe"
+sleep 3
+exit
+else
+echo "input salah bre"
+sleep 2
+clear
+fi
+doney
